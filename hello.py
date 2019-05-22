@@ -2,3 +2,4 @@
 
 print('Hello Git!')
 print('Watanabe Rui')
+print('Yoshioka Takashi')
