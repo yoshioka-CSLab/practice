@@ -1,4 +1,5 @@
 #!/usr/bin/python
 
 print('Hello Git!')
-print("å¤§è—ªã€€å®—ä¸€éƒ")
+print("‘ååM@@ˆê˜Y")
+print("st15051")
